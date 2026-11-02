@@ -1,0 +1,8 @@
+pymupdf
+python-dotenv
+tavily-python
+sentence-transformers
+scikit-learn
+numpy
+groq
+streamlit
