@@ -1,6 +1,27 @@
-venv/
+# Environment & Secrets
 .env
+.env.*
+!.env.example
+
+# Python & Virtual Environments
 __pycache__/
-*.pyc
-data/
-outputs/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.pytest_cache/
+
+# Data & Outputs
+data/retrieved_papers/*
+!data/retrieved_papers/.gitkeep
+data/uploaded_papers/*
+!data/uploaded_papers/sample.pdf
+outputs/*
+!outputs/.gitkeep
+
+# OS / Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
