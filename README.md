@@ -78,6 +78,6 @@ uv run pytest
 ```
 
 ## Output
-<img width="1862" height="838" alt="image" src="https://github.com/user-attachments/assets/a74ed5b8-6d2f-485c-a32d-9216015decc7" />
 <img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/9f31b760-5046-42e4-9a4a-26fc7f985447" />
+<img width="1862" height="838" alt="image" src="https://github.com/user-attachments/assets/a74ed5b8-6d2f-485c-a32d-9216015decc7" />
 Demo :- https://research-novelty-detector.streamlit.app/
